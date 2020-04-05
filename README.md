@@ -30,11 +30,11 @@ The data is available from 22 Jan, 2020.
 
 #### File Dataset
 
-    patient.csv		            22 columns  (Main File)
-    time.csv		            24 columns  
-    route.csv		             7 columns
-    case.csv		             8 columns
-    trend.csv		             5 columns
+    patient.csv                 22 columns  (Main File)
+    time.csv                    24 columns  
+    route.csv                    7 columns
+    case.csv                     8 columns
+    trend.csv                    5 columns
     TotalCaseConvir_INA.csv      2 columns  (dataset file for country: Indonesia)
 
 #### Acknowledgements
