@@ -38,6 +38,7 @@ The data is available from 22 Jan, 2020.
     TotalCaseConvir_INA.csv      2 columns  (dataset file for country: Indonesia)
 
 #### Acknowledgements
+
 - Johns Hopkins University for making the data available for educational and academic research purposes
 - MoBS lab - https://www.mobs-lab.org/2019ncov.html
 - World Health Organization (WHO): https://www.who.int/
@@ -54,3 +55,10 @@ The data is available from 22 Jan, 2020.
 - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
 - Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+
+#### Inspiration
+
+Some insights could be
+- Changes in number of affected cases over time
+- Change in cases over time at country level
+- Latest number of affected cases
