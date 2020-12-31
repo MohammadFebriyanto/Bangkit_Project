@@ -1,6 +1,15 @@
-# Bangkit_Project
+# ABOUT PROJECT
+This repo for our Bangkit Academy Projects
 
-This repo for our Bangkit_Project.
+## OBJECTIVES
+### PROBLEM FRAMING
+    The predicted growth of people infected from the number of positive indicated Coronavirus.
+### HYPOTHESIS
+    How does the age range that affects infected coronavirus?
+    How does gender affect the number of people infected with coronavirus?
+    How many people will be infected by the coronavirus in the next seven days?
+### FORMULATION
+    Predicting using TensorFlow with Long Short-Term Memory (LSTM) Models
 
 ## Novel Corona Virus 2019 Dataset
 Source : https://www.kaggle.com/larsupb/covid-19-forecast-germany-with-lgbm-and-keras/data
