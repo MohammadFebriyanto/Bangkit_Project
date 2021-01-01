@@ -1,4 +1,4 @@
-# ABOUT PROJECT
+# PREDICTING USING LONG SHORT TERM MEMORY (LSTM) MODELS
 This repo for our Bangkit Academy Projects
 
 ## OBJECTIVES
