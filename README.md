@@ -13,7 +13,7 @@ This repo for our Bangkit Academy Projects
 ### PRESENTATION 
     This link for our slide presentation (http://bit.ly/LSTMcovid19)
 
-## Novel Corona Virus 2019 Dataset
+## NOVEL CORONAVIRUS 2019 DATASET
 Source : https://www.kaggle.com/larsupb/covid-19-forecast-germany-with-lgbm-and-keras/data
 
 Day level information on covid-19 affected cases
@@ -73,3 +73,48 @@ Some insights could be
 - Changes in number of affected cases over time
 - Change in cases over time at country level
 - Latest number of affected cases
+
+## METHODE
+#### Data Preparation
+
+The process of using domain knowledge to extract features from raw data via data mining techniques.
+
+* Feature Selection
+* Numerical Imputation
+* Categorical Column Grouping
+* Extracting column “age_range”
+* Extracting date
+* Data Profiling
+
+#### Techniques
+
+Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points (such as images), but also entire sequences of data (such as speech or video).
+
+## RESULTS
+
+![1](covid19/1.png)
+
+People who are prone to coronavirus are old people and young people, especially older people from 80-99 years old. Based on this result, we conclude that older people more susceptible to coronavirus than younger people. And the number of Female patients is more than Male Patients.
+
+____
+
+![2](covid19/2.png)
+
+The reason why people get infected by coronavirus. The most common things are direct contact with another patient and Visit to Daegu. Therefore, people who have not been exposed to coronavirus should keep their distance from coronavirus patients, and are requested for not to visit Daegu for a while.
+
+_____
+
+![3](covid19/3.png)
+
+Graph of total coronavirus cases.
+
+Based on the data, coronavirus began to spread by the end of February. Day after day, the case of coronavirus is apparently growing and more people are being affected.
+
+____
+
+![4](covid19/4.png)
+
+Graph of Coronavirus prediction in the next 7 days
+
+Based on the results we have made, the model predicted that for the next seven days the coronavirus will increase, even exceeding the ten thousand people affected by coronavirus. Based on this result, people should be more careful and take care of their health.
+
